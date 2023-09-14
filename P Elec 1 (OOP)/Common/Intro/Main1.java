@@ -1,10 +1,10 @@
-class Main {
+class Main1 {
     int x = 5;
 
     public static void main(String[] args) {
         Fruit apple = new Fruit("Apple", "Red", 3);
         Fruit orange = new Fruit();
-        apple.name
+
         // Fruit banana = new Fruit();
         // apple.setName("Apple");
         // apple.setColor("Green");
