@@ -2,7 +2,16 @@ public class Sport {
     protected String name;
     protected String category;
     protected int numberOfPlayers;
-    protected String location;
+    protected String venue;
+
+    // Constructor
+    Sport(String name) {
+        System.out.println(name + " Sport has been created");
+    }
+
+    Sport() {
+
+    }
 
     // getters
     public String getName() {
@@ -18,7 +27,7 @@ public class Sport {
     }
 
     public String getLocation() {
-        return this.location;
+        return this.venue;
     }
 
     // setters
@@ -35,7 +44,7 @@ public class Sport {
     }
 
     public void setLocation(String location) {
-        this.location = location;
+        this.venue = location;
     }
 
 }
