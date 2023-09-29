@@ -1,0 +1,28 @@
+1.C
+2.A
+3.A
+4.C
+5.C
+6.A
+7.A
+8.B
+9.D
+10.C
+
+11.final
+12-13. fields/attribute, methods
+14.Constructor
+15.Methods
+16.Fields
+17.Access modifier
+18-20. public, protected, private
+
+21.Don't Repeat Yourself
+22.Object-Oriented Programming
+23-24 Procedural programming, Object-oriented programming
+25.Blueprint
+26.instance
+27.class
+28.field/attribute
+29.new
+30.dot syntax

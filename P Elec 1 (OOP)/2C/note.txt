@@ -1,0 +1,7 @@
+camelCase
+snake-case
+
+Class calc = new Calculator();
+calc.addNumbers(1,2);
+calc.addNumbers(3.5,2.5);
+

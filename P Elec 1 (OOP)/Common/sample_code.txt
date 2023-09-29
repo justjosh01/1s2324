@@ -1,0 +1,9 @@
+Function/s
+Scanner scan = new Scanner();
+Animal a = new Animal();
+
+camelCase
+
+Calculator calc = new Calculator();
+calc.addNumbers(1,2);
+calc.addNumbers(1.5,2.5);

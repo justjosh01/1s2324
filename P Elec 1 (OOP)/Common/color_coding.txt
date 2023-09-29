@@ -1,0 +1,7 @@
+2A - Pink
+2B - Blue
+2C - Green
+2D - Orange
+
+OOP - Purple
+WEB - Yellow

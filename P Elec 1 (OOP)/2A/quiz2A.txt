@@ -1,0 +1,31 @@
+Easy(II)
+2.D
+4.C
+1.A
+3.A
+5.B
+Medium(I)
+7.C
+9.C
+6.C
+8.A
+10.A
+
+11-12 Procedural programming, Object-oriented programming (Give the two types of programming)
+13-14. fields/attribute, methods (Give the two types of class members)
+15-17. public, protected, private (Give the three types that specifies the visibility and accessibility of the class)
+18.Access modifier (It specifies the visibility and accessibility of the class)
+19.Don't Repeat Yourself (define DRY)
+20.Object-Oriented Programming (define OOP)
+
+21.Blueprint (class is a blank or a template of an object)
+22.instance (Object is a blank of a class)
+23.class (To create a class, use the keyword blank)
+24.field/attribute (another term for variable)
+25.new (To create an object of Main, specify the class name, followed by the object name, and use the keyword blank)
+26.dot syntax (unsay tawag sa tuldok)
+27.final (If you don't want the ability to override existing values, declare the attribute as blank)
+28.Constructor (Special method used to initialize objects when they are created.)
+29.Methods (Functions that define the behavior of the object.)
+30.Fields/Attribute(Variables that hold the state of the object.)
+

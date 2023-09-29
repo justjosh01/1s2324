@@ -1,0 +1,6 @@
+Car c = new Car("Toyota","Vios",2012);
+
+Rectangle r = new Rectangle();
+Rectangle r1 = new Rectangle(5);
+Rectangle r2 = new Rectangle(5,5);
+

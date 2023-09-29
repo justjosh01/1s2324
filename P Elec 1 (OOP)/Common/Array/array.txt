@@ -1,0 +1,38 @@
+for(initialization;condition;update_expression){
+}
+
+book1
+book2
+book3
+
+book[0]
+book[1]
+book[2]
+
+How many Music you want to create? : 5
+
+Input for music 1...
+ID: 12
+Title: Kinsa siya?
+Genre: Bisag unsa
+Artist: Ambot kinsa
+
+Input for music 2...
+ID: 35
+Title: Just the way you are
+Genre: asgahgsha
+Artist: Bruno Earth
+
+...
+
+Input for music 5...
+ID: 2121
+Title: hgshghsg
+Genre: jjgjgj
+Artist: aksjahjs
+
+Congratulations you have successfully created 5 Music!!!
+
+
+
+

@@ -1,0 +1,10 @@
+camelCase
+
+Calculator calc = new Calculator();
+calc.addNumbers(1,2);
+calc.addNumbers(1.5,2.5);
+calc.addNumbers(1,2,3);
+
+concatenate/ion
+
+Minute to Code it
